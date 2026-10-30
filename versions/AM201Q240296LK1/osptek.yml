@@ -1,0 +1,10 @@
+id: AM201Q240296LK1
+category: displays
+size: "2.01"
+panel: amoled
+resolution: 240x296
+interface: [qspi]
+driver: ICNA3306
+touch: null
+outline: 36.40 x 43.57 mm
+active_area: 32.04 x 39.52 mm
