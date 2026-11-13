@@ -12,7 +12,7 @@
   <img alt="Touch: CST816D" src="https://img.shields.io/badge/Touch-CST816D-F39C12?style=flat-square" />
 </p>
 
-<p align="center"><img alt="OSPTEK 2.01 寸 240×296 AMOLED 模组宣传图" src="./images/product.png" width="640" /></p>
+<p align="center"><img alt="OSPTEK 2.01 寸 240×296 AMOLED 模组宣传图" src="./images/3.png" width="640" /></p>
 
 ## 目录
 

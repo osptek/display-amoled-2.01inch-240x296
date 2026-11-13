@@ -37,7 +37,7 @@ Repo id: `display-amoled-2.01inch-240x296`
 
 | Version | Image | Driver IC | Touch IC | Interface | Full docs |
 | ------- | ----- | --------- | -------- | --------- | --------- |
-| AM201Q240296LK | <img alt="AM201Q240296LK" src="./versions/AM201Q240296LK/images/product.png" width="120" /> | ICNA3306 | CST816D | QSPI | [Full docs](./versions/AM201Q240296LK/) |
+| AM201Q240296LK | <img alt="AM201Q240296LK" src="./versions/AM201Q240296LK/images/3.png" width="120" /> | ICNA3306 | CST816D | QSPI | [Full docs](./versions/AM201Q240296LK/) |
 | AM201Q240296LK1 | <img alt="AM201Q240296LK1" src="./versions/AM201Q240296LK1/images/3.png" width="120" /> | ICNA3306 | — | QSPI | [Full docs](./versions/AM201Q240296LK1/) |
 | AM201Q240296LK3 | <img alt="AM201Q240296LK3" src="./versions/AM201Q240296LK3/images/product.png" width="120" /> | ICNA3306 | — | QSPI | [Full docs](./versions/AM201Q240296LK3/) |
 

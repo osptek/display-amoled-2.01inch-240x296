@@ -37,7 +37,7 @@
 
 | 版本 | 宣传图 | 驱动 IC | 触摸驱动 | 接口 | 完整资料 |
 | ---- | ------ | ------- | -------- | ---- | -------- |
-| AM201Q240296LK | <img alt="AM201Q240296LK" src="./versions/AM201Q240296LK/images/product.png" width="120" /> | ICNA3306 | CST816D | QSPI | [完整资料](./versions/AM201Q240296LK/) |
+| AM201Q240296LK | <img alt="AM201Q240296LK" src="./versions/AM201Q240296LK/images/3.png" width="120" /> | ICNA3306 | CST816D | QSPI | [完整资料](./versions/AM201Q240296LK/) |
 | AM201Q240296LK1 | <img alt="AM201Q240296LK1" src="./versions/AM201Q240296LK1/images/3.png" width="120" /> | ICNA3306 | — | QSPI | [完整资料](./versions/AM201Q240296LK1/) |
 | AM201Q240296LK3 | <img alt="AM201Q240296LK3" src="./versions/AM201Q240296LK3/images/product.png" width="120" /> | ICNA3306 | — | QSPI | [完整资料](./versions/AM201Q240296LK3/) |
 
