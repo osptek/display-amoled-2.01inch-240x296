@@ -9,10 +9,8 @@ They are reference code; adjust pins, backlight, touch and other settings to you
 
 | 例程 / Project | 平台 / Platform | 驱动 IC / Driver IC | 接口 / Interface | 说明 / Description |
 |---|---|---|---|---|
-| [`esp32s3-idf5-icna3306-qspi-lvgl-adapter-lvgl8`](./esp32s3-idf5-icna3306-qspi-lvgl-adapter-lvgl8/) | ESP32-S3 · ESP-IDF 5 | ICNA3306 | QSPI | LVGL 8 / LVGL 8 |
-| [`esp32s3-idf5-icna3306-qspi-lvgl-adapter-lvgl8-te`](./esp32s3-idf5-icna3306-qspi-lvgl-adapter-lvgl8-te/) | ESP32-S3 · ESP-IDF 5 | ICNA3306 | QSPI | LVGL 8、TE 防撕裂 / LVGL 8, TE tear-free |
-| [`esp32s3-idf5-icna3306-qspi-lvgl-adapter-lvgl9`](./esp32s3-idf5-icna3306-qspi-lvgl-adapter-lvgl9/) | ESP32-S3 · ESP-IDF 5 | ICNA3306 | QSPI | LVGL 9 / LVGL 9 |
-| [`esp32s3-idf5-icna3306-qspi-lvgl-adapter-lvgl9-te`](./esp32s3-idf5-icna3306-qspi-lvgl-adapter-lvgl9-te/) | ESP32-S3 · ESP-IDF 5 | ICNA3306 | QSPI | LVGL 9、TE 防撕裂 / LVGL 9, TE tear-free |
-| [`esp32s3-idf5-icna3306-qspi-lvgl8-te-rotate90`](./esp32s3-idf5-icna3306-qspi-lvgl8-te-rotate90/) | ESP32-S3 · ESP-IDF 5 | ICNA3306 | QSPI | LVGL 8、TE 防撕裂、软件旋转 90° / LVGL 8, TE tear-free, SW rotate 90° |
+| [`esp32s3-idf5_icna3306-qspi_esp-lvgl-adapter_lvgl8_amoled-with-te`](./esp32s3-idf5_icna3306-qspi_esp-lvgl-adapter_lvgl8_amoled-with-te/) | ESP32-S3 · ESP-IDF 5 | ICNA3306 | QSPI | LVGL 8、TE 防撕裂 / LVGL 8, TE tear-free |
+| [`esp32s3-idf5_icna3306-qspi_esp-lvgl-adapter_lvgl9_amoled-with-te`](./esp32s3-idf5_icna3306-qspi_esp-lvgl-adapter_lvgl9_amoled-with-te/) | ESP32-S3 · ESP-IDF 5 | ICNA3306 | QSPI | LVGL 9、TE 防撕裂 / LVGL 9, TE tear-free |
+| [`esp32s3-idf5_icna3306-qspi-240x296_osptek-boot-anim_lvgl9-te-rotate90`](./esp32s3-idf5_icna3306-qspi-240x296_osptek-boot-anim_lvgl9-te-rotate90/) | ESP32-S3 · ESP-IDF 5 | ICNA3306 | QSPI | 开机动画+LVGL 9、TE 防撕裂、软件旋转 90° / Boot Animation+LVGL 9, TE tear-free, SW rotate 90° |
 
 如有问题请联系技术支持。 / Contact technical support if you have questions.
