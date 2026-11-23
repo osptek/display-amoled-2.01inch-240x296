@@ -44,6 +44,7 @@
 | Category | File |
 | ---- | ---- |
 | Datasheet | [`AM201Q240296LK.pdf`](./datasheets/AM201Q240296LK.pdf) |
+| CAD file | [`AM201Q240296LK.dwg`](./cad/AM201Q240296LK.dwg) |
 
 ## Repository layout
 
@@ -55,7 +56,8 @@ display-amoled-2.01inch-240x296/ # repo root (nav: ../../README_EN.md; sample pr
         ├── README_EN.md
         ├── osptek.yml
         ├── images/
-        └── datasheets/       # product datasheet + driver/touch IC datasheets
+        ├── datasheets/       # product datasheet + driver/touch IC datasheets
+        └── cad/              # outline/cover CAD
 ```
 
 ## Buy
