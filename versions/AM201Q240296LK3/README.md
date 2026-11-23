@@ -43,6 +43,7 @@
 | 分类 | 文件 |
 | ---- | ---- |
 | 规格文档 | [`AM201Q240296LK3.pdf`](./datasheets/AM201Q240296LK3.pdf) |
+| CAD 图纸 | [`AM201Q240296LK3.dwg`](./cad/AM201Q240296LK3.dwg) |
 
 ## 仓库结构
 
@@ -54,7 +55,8 @@ display-amoled-2.01inch-240x296/ # 仓库根（导航见 ../../README.md，示�
         ├── README_EN.md
         ├── osptek.yml
         ├── images/
-        └── datasheets/       # 产品规格书 + 驱动/触摸 IC 数据手册
+        ├── datasheets/       # 产品规格书 + 驱动/触摸 IC 数据手册
+        └── cad/              # 外形/盖板 CAD
 ```
 
 ## 购买链接
